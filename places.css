@@ -1,0 +1,48 @@
+body {
+    margin-left: 100px;
+    margin-right: 80px;
+    background-color: #56a1c9;
+    font-family: cursive;
+    color: rgb(29, 30, 94);
+}
+
+.start, .first, .second {
+    font-size: 1.5rem;
+    width: 100%;
+}
+
+.hero {
+    font-size: 0.5rem;
+}
+
+.hero li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+    background-color: rgba(175, 48, 164, 0.3);
+    font-size: 15px;
+    border: 2px seashell #fff;
+    padding: 8px 30px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.hero li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.hero li a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.start h2 {
+    font-family: cursive;
+    text-transform: capitalize;
+
+}
+
+body p {
+    text-indent: 4em;
+}
